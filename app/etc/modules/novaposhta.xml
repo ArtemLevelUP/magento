@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <novaposhta>
+            <active>true</active>
+            <codePool>local</codePool>
+        </novaposhta>
+    </modules>
+</config>
